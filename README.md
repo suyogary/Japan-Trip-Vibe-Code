@@ -7,6 +7,8 @@ real application logic for the interactive parts (refresh, reject reasons, value
 scores, refundability, checklist state), seeded with real research from an actual
 Japan trip instead of a live backend/API.
 
+![Waypoint — trip brief and day-by-day itinerary](docs/screenshot.png)
+
 ## Running it
 
 ```bash
