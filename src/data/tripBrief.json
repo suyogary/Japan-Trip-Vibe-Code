@@ -1,0 +1,12 @@
+{
+  "title": "Japan — Second Trip",
+  "dateRange": "Oct 1 – Oct 18",
+  "travelers": 2,
+  "bagsPerTraveler": 1,
+  "budgetPerNight": "Under ~$70/day per person — hotel mix early, social hostel (quiet after 10pm) for the Kyushu leg",
+  "lodgingTypes": ["hotel", "hostel"],
+  "transportModes": ["train", "bus", "ferry"],
+  "interests": ["Nature/outdoors", "History/culture", "Nightlife, art/design, onsen", "Food"],
+  "avoid": ["Tokyo major first-timer sights", "Osaka", "Hiroshima Peace Park/Miyajima (already seen)", "Kyoto first-timer sights (Fushimi Inari, Kinkaku-ji, Arashiyama bamboo)", "Takayama"],
+  "generatedNote": "Seed data assembled from a real trip-planning session. Refresh by asking Claude to update the JSON files in /src/data."
+}

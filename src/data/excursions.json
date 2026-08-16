@@ -1,0 +1,34 @@
+{
+  "Nagano": [
+    { "id": "e-nag-1", "city": "Nagano", "title": "Zenko-ji Temple + Nakamise-dori", "note": "Founded 642 AD; oyaki and gohei mochi along the approach street" },
+    { "id": "e-nag-2", "city": "Nagano", "title": "Jigokudani Monkey Park", "note": "Off-peak in Oct (no snow yet) — check the park livestream before committing", "closedDay": "None, but seasonal activity varies" },
+    { "id": "e-nag-3", "city": "Nagano", "title": "Togakushi shrine + cedar trail + soba", "note": "Zenkoji & Togakushi 1-day bus ticket covers the loop" },
+    { "id": "e-nag-4", "city": "Nagano", "title": "Obuse — Hokusai Museum", "note": "Small town, chestnut sweets", "closedDay": "Check seasonal hours" }
+  ],
+  "Kyoto": [
+    { "id": "e-kyo-1", "city": "Kyoto", "title": "Kurama–Kibune hike + Kurama Onsen", "note": "1–2hr forest trail past 40+ shrines, outdoor bath at the trailhead" },
+    { "id": "e-kyo-2", "city": "Kyoto", "title": "Fushimi sake district (not Fushimi Inari)", "note": "Gekkeikan Museum ¥300 incl. tasting, Jikkokubune canal boat" },
+    { "id": "e-kyo-3", "city": "Kyoto", "title": "Otagi Nenbutsu-ji", "note": "1,200 individually carved rakan statues, rarely crowded" },
+    { "id": "e-kyo-4", "city": "Kyoto", "title": "Uji — Ujigami Shrine + Tsuen tea house", "note": "Oldest Shinto shrine in Japan; oldest tea house in Japan (est. 1160)" },
+    { "id": "e-kyo-5", "city": "Kyoto", "title": "Ohara — Sanzen-in Temple", "note": "Moss garden, rural village feel, ~1hr from Kyoto Station" },
+    { "id": "e-kyo-6", "city": "Kyoto", "title": "Kiyamachi bars/izakaya", "note": "More local/casual than Pontocho's higher-end kaiseki scene" }
+  ],
+  "Kurashiki": [
+    { "id": "e-kur-1", "city": "Kurashiki", "title": "Bikan historical canal district", "note": "Edo-period merchant quarter, willow-lined canal, white-walled storehouses" }
+  ],
+  "Fukuoka": [
+    { "id": "e-fuk-1", "city": "Fukuoka", "title": "Nakasu yatai food stalls", "note": "Open ~6pm–2am; tonkotsu ramen, yakitori, oden" },
+    { "id": "e-fuk-2", "city": "Fukuoka", "title": "Dazaifu Tenmangu", "note": "Shrine to the god of learning, umegae mochi along the approach" },
+    { "id": "e-fuk-3", "city": "Fukuoka", "title": "Nokonoshima Island", "note": "10-min ferry from Meinohama; flower fields (cosmos likely blooming in Oct), hiking" }
+  ],
+  "Nagasaki": [
+    { "id": "e-nas-1", "city": "Nagasaki", "title": "Dejima", "note": "Restored Dutch trading post — Japan's only sanctioned window to the West, 1639–1853" },
+    { "id": "e-nas-2", "city": "Nagasaki", "title": "Glover Garden", "note": "Meiji-era Western merchant mansions on a hillside overlooking the harbor" },
+    { "id": "e-nas-3", "city": "Nagasaki", "title": "Chinatown + Meganebashi", "note": "Japan's oldest Chinatown; the eyeglasses bridge reflection" },
+    { "id": "e-nas-4", "city": "Nagasaki", "title": "Mt. Inasa night view", "note": "Ranked among the 'new three great night views of the world' — go at night" }
+  ],
+  "Unzen": [
+    { "id": "e-unz-1", "city": "Unzen", "title": "Jigoku geothermal walk", "note": "Steaming hot-spring vents right in town" },
+    { "id": "e-unz-2", "city": "Unzen", "title": "Mt. Fugen ropeway/hike", "note": "Volcanic peak views" }
+  ]
+}

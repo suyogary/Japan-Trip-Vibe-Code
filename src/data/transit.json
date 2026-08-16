@@ -1,0 +1,12 @@
+[
+  { "id": "t1", "day": 3, "from": "Tokyo", "to": "Nagano", "mode": "Shinkansen (Hokuriku, Kagayaki)", "duration": "~80 min", "cost": "¥8,200 (~$55) one-way" },
+  { "id": "t2", "day": 4, "from": "Nagano", "to": "Kyoto", "mode": "Shinkansen (via Tokyo)", "duration": "~3hrs total", "cost": "¥16,500 (~$110) one-way" },
+  { "id": "t3", "day": 8, "from": "Kyoto", "to": "Kurashiki", "mode": "Shinkansen to Okayama + local train", "duration": "~1hr", "cost": "¥6,800 (~$45) one-way" },
+  { "id": "t4", "day": 9, "from": "Kurashiki", "to": "Fukuoka", "mode": "Shinkansen (via Okayama)", "duration": "~2hrs", "cost": "¥14,500 (~$97) one-way" },
+  { "id": "t5", "day": 10, "from": "Fukuoka", "to": "Nagasaki", "mode": "Kamome ltd. express (transfer at Takeo-Onsen)", "duration": "~1h20–1h30", "cost": "¥6,050 (~$40) one-way" },
+  { "id": "t6", "day": 11, "from": "Nagasaki", "to": "Unzen", "mode": "Train to Isahaya + bus", "duration": "~1h40–2hrs", "cost": "¥1,300 bus + short train fare" },
+  { "id": "t7", "day": 13, "from": "Unzen", "to": "Fukuoka", "mode": "Bus + ferry (via Shimabara/Kumamoto) + Shinkansen", "duration": "~2.5–3hrs total", "cost": "¥730 bus + ferry (¥1,500–2,500) + ¥5,500 Shinkansen", "note": "Scenic shortcut avoiding backtracking through Nagasaki" },
+  { "id": "t8", "day": 13, "from": "Fukuoka", "to": "Tokyo", "mode": "Flight (Fukuoka Airport, subway-linked)", "duration": "~2hrs", "cost": "¥15,000–30,000 (~$100–200) one-way, varies by booking window" },
+  { "id": "t9", "day": 15, "from": "Tokyo", "to": "Hakone", "mode": "Odakyu Romancecar (round trip)", "duration": "~1.5–2hrs each way", "cost": "Hakone Free Pass ¥6,100 (~$41) covers the loop" },
+  { "id": "t10", "day": 16, "from": "Tokyo", "to": "Nikko", "mode": "Tobu ltd. express (round trip)", "duration": "~1h50 each way", "cost": "¥3,050 (~$20) one-way" }
+]
